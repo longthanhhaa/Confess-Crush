@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Đây là món quà thứ 2 ạ',
     messDesc: '',
     btnAccept: 'https://youtu.be/0Yn8-0nUiLk',
-    messLink: 'https://fb.com/zukahai/Confess-20/11' //https://m.me/lthaa.211
+    messLink: 'https://www.youtube.com/zukahai/Confess-20/11' //https://m.me/lthaa.211
 }
