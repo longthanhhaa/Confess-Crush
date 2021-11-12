@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Tri ân ngày Nhà giáo Việt Nam",
+    titleWeb: "Tri ân ngày Nhà giáo Việt Nam 20/11",
     introTitle: 'Thầy cô Học Viện Tài Chính',
     introDesc: `Thầy cô là người truyền cảm hứng, mang đến cho chúng em những kiến thức bổ ích. Nhân dịp ngày 20/11, thay lời muốn nói, em xin gửi tới thầy cô những lời chúc tốt đẹp nhất.`,
     btnIntro: 'Thiệp chúc mừng',
